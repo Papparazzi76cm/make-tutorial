@@ -1,0 +1,7 @@
+{
+  "name": "MakeMaster AI",
+  "description": "Un asistente virtual inteligente desplegable en Hostinger para aprender Make (Integromat) desde cero hasta experto, potenciado por Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
